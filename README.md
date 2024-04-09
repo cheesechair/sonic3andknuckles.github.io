@@ -1,2 +1,2 @@
-# tetrisdx.io
+# tetrisdx.github.io
 tetris dx
